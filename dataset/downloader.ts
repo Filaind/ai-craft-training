@@ -46,12 +46,45 @@ async function downloadSchematic(id: string) {
     }
 }
 
+let names: {
+    [id: string]: {
+        name: string;
+        description: string;
+    };
+} = {};
+
+async function downloadName(id: string) {
+    try {
+        const res = await axios.request({
+            method: 'get',
+            url: `https://www.minecraft-schematics.com/schematic/${id}/`,
+        });
+
+        const data = res.data;
+        const name = data.split(`<li class="active">`)[1].split(`</li>`)[0].trim();
+        if(name.includes('<a href="/">')) {
+            return;
+        }
+        const description = data.split(`<p><legend>Description</legend></p>`)[1].split(`<p>`)[1].split(`</p>`)[0].trim();
+        names[id] = {
+            name: name,
+            description: description
+        };
+
+        fs.writeFileSync("names.json", JSON.stringify(names, null, 2));
+        console.log(`Downloaded: ${id}`);
+    } catch (error) {
+        console.error(`Failed to download schematic ${id}`);
+    }
+}
+
+
 async function downloadAll(ids: string[]) {
     const { errors } = await PromisePool
-        .withConcurrency(10)
+        .withConcurrency(100)
         .for(ids)
         .process(async (id) => {
-            await downloadSchematic(id);
+            await downloadName(id);
         });
 
     if (errors.length > 0) {
