@@ -1,0 +1,111 @@
+layer 1
+
+lantern, lantern, lantern, lantern, lantern, lantern, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, lantern, lantern, lantern, lantern, lantern, lantern
+oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, spruce_stairs, lantern, lantern, lantern, lantern, lantern, lantern, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log
+lantern, lantern, lantern, lantern, lantern, lantern, lantern, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, lantern, lantern, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs
+air, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, spruce_stairs, spruce_stairs, lantern, lantern, lantern, lantern, lantern, lantern, spruce_stairs, lantern, lantern, lantern
+lantern, air, air, air, air, air, air, oak_log, oak_log, lantern, spruce_stairs, spruce_stairs, spruce_stairs, lantern, lantern, spruce_stairs, air, air, air
+air, spruce_stairs, lantern, oak_log, oak_log, oak_log, oak_log, air, spruce_stairs, lantern, lantern, lantern, lantern, air, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs
+spruce_stairs, air, air, air, air, air, air, air, oak_log, lantern, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, lantern, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs
+spruce_stairs, spruce_stairs, lantern, oak_log, oak_log, oak_log, oak_log, air, spruce_stairs, lantern, lantern, lantern, lantern, lantern, lantern, lantern, lantern, lantern, lantern
+lantern, lantern, lantern, lantern, lantern, lantern, lantern, lantern, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, lantern, lantern, lantern, lantern, lantern
+lantern, lantern, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, lantern, lantern, lantern, lantern, lantern, lantern, air, oak_log, oak_log, oak_log, oak_log
+oak_log, oak_log, lantern, lantern, lantern, lantern, lantern, lantern, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, oak_log, air, air, air, air
+
+layer 2
+
+air, air, oak_log, oak_log, oak_log, oak_log, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, spruce_stairs, spruce_door, spruce_trapdoor, spruce_door, spruce_door, spruce_door, spruce_trapdoor, air, air, air, air, air, air, spruce_stairs, grass_block, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, lantern, air, air, air
+air, air, air, air, air, air, air, air, lantern, spruce_trapdoor, air, air, air, air, air, air, grass_block, air, air
+air, air, air, air, air, air, air, air, air, oak_log, air, air, air, air, air, spruce_stairs, grass_block, air, air
+air, air, air, lantern, spruce_trapdoor, spruce_door, spruce_door, spruce_door, spruce_trapdoor, grass_block, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+
+layer 3
+
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, dirt, air, air, air
+air, air, air, air, air, air, air, air, air, air, dirt, air, air, air, air, air, air, spruce_stairs, glass_pane
+spruce_trapdoor, spruce_door, spruce_door, glass_pane, spruce_trapdoor, air, air, air, air, air, air, air, air, air, air, lantern, grass_block, spruce_stairs, air
+lantern, air, air, air, air, air, air, air, lantern, grass_block, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, lantern, grass_block, air, air
+air, air, air, air, air, air, air, air, lantern, grass_block, air, air, air, air, air, air, air, air, lantern
+spruce_trapdoor, spruce_door, spruce_trapdoor, glass_pane, spruce_trapdoor, spruce_door, air, air, air, air, air, air, air, air, air, dirt, air, air, spruce_stairs
+air, air, air, air, air, air, air, air, air, air, dirt, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+
+layer 4
+
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, dirt, air, air, air, dirt, air, air, spruce_stairs, grass_block, air, air, air, air, air, spruce_stairs, spruce_door, spruce_door, spruce_door
+grass_block, air, air, spruce_stairs, grass_block, air, air, lantern, spruce_trapdoor, grass_block, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, lantern, grass_block, air, air
+air, air, air, air, air, air, air, air, lantern, grass_block, air, air, air, air, grass_block, air, air, air, grass_block
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, spruce_stairs, spruce_door, spruce_door, spruce_door
+spruce_trapdoor, grass_block, air, air, air, air, air, air, spruce_trapdoor, grass_block, air, air, air, air, air, air, air, air, air
+air, oak_log, air, air, air, air, air, air, spruce_stairs, grass_block, air, air, air, air, air, air, air, air, air
+air, air, air, spruce_stairs, grass_block, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+
+layer 5
+
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, spruce_planks, spruce_planks, spruce_planks
+spruce_planks, spruce_planks, spruce_planks, air, air, air, air, air, spruce_stairs, spruce_planks, spruce_planks, air, air, air, lantern, air, spruce_trapdoor, spruce_trapdoor, spruce_trapdoor
+spruce_trapdoor, spruce_trapdoor, spruce_trapdoor, spruce_door, spruce_trapdoor, spruce_door, spruce_door, spruce_door, spruce_trapdoor, air, air, air, air, air, air, oak_log, air, air, air
+air, air, air, air, grass_block, air, air, air, air, oak_log, air, air, air, air, air, lantern, spruce_stairs, spruce_stairs, spruce_stairs
+spruce_stairs, spruce_stairs, air, air, air, air, air, air, lantern, spruce_trapdoor, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, spruce_stairs, air, spruce_stairs, spruce_stairs, spruce_stairs
+spruce_stairs, spruce_stairs, air, air, spruce_trapdoor, spruce_door, spruce_door, spruce_door, spruce_trapdoor, spruce_trapdoor, air, air, air, air, air, air, air, air, air
+air, air, air, air, grass_block, air, air, air, air, air, grass_block, air, air, air, air, air, spruce_stairs, air, air
+air, air, air, air, grass_block, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+
+layer 6
+
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, spruce_planks
+spruce_planks, spruce_planks, spruce_planks, spruce_planks, spruce_planks, grass_block, air, air, spruce_stairs, spruce_trapdoor, spruce_trapdoor, grass_block, air, air, lantern, chain, spruce_door, chain, spruce_trapdoor
+spruce_trapdoor, spruce_trapdoor, spruce_trapdoor, spruce_trapdoor, grass_block, lantern, chain, chain, chain, spruce_door, spruce_planks, spruce_stairs, air, air, air, air, air, air, grass_block
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, spruce_stairs, chain, spruce_trapdoor, air, spruce_planks
+air, air, air, air, air, spruce_stairs, air, air, chain, spruce_trapdoor, spruce_planks, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, grass_block, air, air, air, air, air, spruce_stairs
+air, air, air, air, grass_block, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+
+layer 7
+
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, dirt, spruce_planks, spruce_planks, spruce_planks, spruce_planks, spruce_planks, spruce_planks, spruce_stairs, spruce_trapdoor, spruce_trapdoor, spruce_trapdoor, spruce_trapdoor, spruce_trapdoor, spruce_stairs, air, air, air, air
+air, spruce_stairs, spruce_trapdoor, spruce_trapdoor, grass_block, air, air, spruce_stairs, air, oak_log, oak_log, air, air, air, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs
+spruce_stairs, air, air, air, air, air, air, air, air, air, air, air, air, air, grass_block, air, air, air, air
+air, spruce_stairs, air, air, grass_block, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+
+layer 8
+
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, lantern, spruce_stairs, air, air, air
+air, air, air, lantern, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, spruce_stairs, stripped_dark_oak_log, stripped_dark_oak_log, stripped_dark_oak_log, stripped_dark_oak_log, stripped_dark_oak_log, stripped_dark_oak_log, dirt, air, air
+air, air, air, air, dirt, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air
+air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air, air

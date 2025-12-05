@@ -1,0 +1,17 @@
+{
+  "name": "dataset",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@supercharge/promise-pool": "^3.2.0",
+    "axios": "^1.13.2",
+    "prismarine-nbt": "^2.7.0"
+  }
+}
